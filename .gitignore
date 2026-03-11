@@ -1,0 +1,14 @@
+# ignore environment
+.env
+
+# ignore cache
+__pycache__/
+*.pyc
+
+# ignore vector databases
+*.db
+*.sqlite3
+
+# ignore system files
+.DS_Store
+Thumbs.db
